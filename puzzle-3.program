@@ -1,0 +1,12 @@
+down
+down
+var currentColour = getColour
+down
+down
+down
+right
+right
+setColour(currentColour)
+right
+right
+up
