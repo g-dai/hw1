@@ -1,0 +1,23 @@
+function moveDown {
+  while (getColour != "red") {
+  down
+  }
+  right
+}
+
+function moveUp {
+  while (getColour != "red") {
+  up
+  }
+  right
+ }
+ 
+moveDown
+right
+moveUp
+right
+moveDown
+right
+moveUp
+right
+moveDown
