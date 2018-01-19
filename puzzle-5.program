@@ -8,8 +8,7 @@ while (numberOfTiles < 3) {
     down
     right
     right
-  }
-  else {
+  } else {
     up
     right
     right
