@@ -10,7 +10,7 @@ function moveUp {
   up
   }
   right
- }
+}
  
 moveDown
 right
