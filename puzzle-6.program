@@ -1,0 +1,6 @@
+right
+if (getColour == "red") {
+  up
+  up
+  up
+} else {
