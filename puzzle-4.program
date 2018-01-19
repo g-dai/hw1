@@ -1,0 +1,11 @@
+function getAndSet {
+  var currentColour = getColour
+  down
+  setColour(currentColour)
+
+down
+down
+down
+down
+right
+getAndSet
