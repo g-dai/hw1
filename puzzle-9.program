@@ -2,7 +2,7 @@ function draw(direction) {
   var count = 0
   while (count < 9) {
     direction
-    setColour
+    setColour("red")
     count += 1
   }
 }
